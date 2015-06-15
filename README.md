@@ -8,4 +8,4 @@ To locate the map :
 
 For a reason I can't figure out, the map isn't displayed if no place is selected. The script is just not launched at all, probably because of the way the initialize() function works in the google api.
 
-Pls note that I tested the script also while replacing the var contentString = '\<h2>'+data+'</h2>'; by var contentString = '\<h2>Hello</h2>';. 
+Pls note that I tested the script also while replacing the "var contentString = '\<h2>'+data+'\</h2>';" by "var contentString = '\<h2>Hello\</h2>';". 
